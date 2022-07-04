@@ -71,6 +71,9 @@ def main():
     print(pred)
 
 
+if __name__ == "__main__":
+    main()
+
 
 
 
