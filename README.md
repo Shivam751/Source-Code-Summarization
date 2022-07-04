@@ -10,7 +10,7 @@ Source-Code-Summarizer is a sequence to sequence translation architechture to ge
 ## Apporach
 The code and docstring pairs will be processed and passed to a encoder-decoder model to generate doctrings.
 
-#Steps
+# Steps
 1. Text Preprocessing
 2. Text Tokenization
 3. Sequence Padding
